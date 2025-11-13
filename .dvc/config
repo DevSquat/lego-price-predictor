@@ -1,4 +1,6 @@
 [core]
-    remote = personal_gdrive
-['remote "personal_gdrive"']
-    url = gdrive://1Xc0PZhhm0uD6OrPIQhw6LaSGYUhhSPyK
+    remote = azure_remote
+['remote "azure_remote"']
+    url = azure://dvc-repo
+    account_name = legopricepredictor
+    account_key = GET_YOURS
