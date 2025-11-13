@@ -206,6 +206,8 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 /.idea/
-data/raw/*
+data/raw/google_trends/*
+data/raw/rebrickable/*
+data/raw/used_prices/*
 data/processed/*
 data/interim/*
