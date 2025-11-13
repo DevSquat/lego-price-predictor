@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "Lego price predictor"
+version = "0.1.0"
+description = "Training project that uses regression algorithms to predict future price of lego sets."
+authors = ["Konstanty Orzeszko <konstanty.orzeszko@gmail.com>"]
+license = "GPL-2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+matplotlib = "^3.10.3"
+pandas = "^2.2.3"
+scikit-learn = "^1.6.1"
+openpyxl = "^3.1.5"
+xgboost = "^3.0.2"
+prophet = "^1.1.7"
+keras = "^3.10.0"
+tensorflow = "^2.19.0"
+torch = "^2.7.1"
+seaborn = "^0.13.2"
+
+[tool.poetry.group.dev.dependencies]
+dvc = {extras = ["gdrive"], version = "^3.64.0"}
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
