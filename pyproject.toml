@@ -5,9 +5,11 @@ description = "Training project that uses regression algorithms to predict futur
 authors = ["Konstanty Orzeszko <konstanty.orzeszko@gmail.com>"]
 license = "GPL-2.0"
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "3.13.9"
+pandas = "^2.3.3"
 
 
 [tool.poetry.group.dev.dependencies]
