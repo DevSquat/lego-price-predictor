@@ -1,0 +1,6 @@
+outs:
+- md5: 6e18ba5f7d3742e9b2aa6e797170556b.dir
+  size: 625042
+  nfiles: 120
+  hash: md5
+  path: google_trends

@@ -1,0 +1,6 @@
+outs:
+- md5: d77fb3f1b73da77b03a90921318b5b02.dir
+  size: 75848085
+  nfiles: 1
+  hash: md5
+  path: used_prices
