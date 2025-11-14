@@ -1,6 +1,6 @@
 outs:
-- md5: b14d8044caba417d74c38aa27d774344.dir
-  size: 126756708
-  nfiles: 7
+- md5: f0ba176c731ca9366e202494877375b2.dir
+  size: 119929824
+  nfiles: 5
   hash: md5
   path: rebrickable
